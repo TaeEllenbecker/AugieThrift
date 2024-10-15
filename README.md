@@ -1,1 +1,1 @@
-# AugieThrift
+# Augie Thrift
